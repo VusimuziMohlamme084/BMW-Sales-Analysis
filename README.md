@@ -1,5 +1,5 @@
 # BMW Car Sales Analysis | Revenue,Trends and Insights
-Excel + SQL + Power BI Project | Retail Sales Data | From Raw Data to Business Insights
+Excel + SQL + Power BI Project | BMW Car Sales | From Raw Data to Business Insights
 
 ## Table Of Content
  * [Project Overview](#project-overview)
@@ -161,6 +161,8 @@ These insights provide a snapshot of the performance of BMW car models, helping 
 5. **Leverage Seasonal Trends and Sales Cycles:**
    * Sales trends indicate peaks during certain months, such as **January, March, June, September, and December**. BMW should plan targeted promotions and campaigns around these months, offering time-sensitive discounts or exclusive packages to maximize sales during these high-activity periods.
 
+  Data Source
+  [Download Here](https://github.com)
 
 
 
