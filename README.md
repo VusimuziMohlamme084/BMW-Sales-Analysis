@@ -6,7 +6,7 @@ Excel + SQL + Power BI Project | Retail Sales Data | From Raw Data to Business I
  * [Tools & Technologies](#tools--technologies)
  * [Data Cleaning Process](#data-cleaning-process)
  * [Exploratory Analysis](#exploratory-analysis)
- * [Power BI Dashboard](#Power-BI-Dashboard)
+ * [Power BI Dashboard](#power-bi-dashboard)
  * [Key Insights](#key-insights)
  * [Recommendations](#recommendations)
 
